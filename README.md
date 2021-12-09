@@ -1,2 +1,2 @@
 # PythonForDataAnalytics
-Teaching Python to data Analysts
+Teaching data analytics skills.
